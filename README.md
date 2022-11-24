@@ -6,4 +6,3 @@
 -     Always follow flexible architecture as the requirements are changing every customer to customer.
 -     Try to develop architecture which can be configured remotely
 
-- 📫 Various protocols/technologies (MQTT, ReST, UDP, TCP/IP, web-socket) are used to develop code especially edge node codes.
